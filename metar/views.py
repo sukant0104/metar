@@ -31,7 +31,7 @@ def wind(data):
         wind_gust= 0
         print(wind_gust)
     if int(wind_gust) > 0:
-        wind_details_str= str(wind_direction) + " degree at the speed of "+str(wind_velocity)+ " knots with "+ str(wind_gust)+" knot gusts"
+        wind_details_str= str(wind_direction) + " degree at the speed of  "+str(wind_velocity)+ " knots with "+ str(wind_gust)+" knot gusts"
     else:
         wind_details_str= str(wind_direction) + " degree at the speed of "+str(wind_velocity)+ " knots"
     return wind_details_str
