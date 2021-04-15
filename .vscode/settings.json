@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "myprojectenv\\Scripts\\python.exe",
+    "mithrilEmmet.vnodeFactoryFunctionName": "m", 
+    "mithrilEmmet.outputDefaultTagName": true 
+}
